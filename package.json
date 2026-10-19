@@ -4,7 +4,9 @@
   "description": "Brawnsterdam - Interactive WebGL 3D Experience",
   "main": "server.js",
   "scripts": {
-    "start": "node server.js"
+    "start": "node server.js",
+    "deploy": "wrangler deploy",
+    "preview": "wrangler dev"
   },
   "keywords": [
     "webgl",

@@ -1,0 +1,15 @@
+node_modules
+node_modules/**
+**/node_modules/**
+.git
+.git/**
+**/.git/**
+.github
+.github/**
+server.js
+package.json
+package-lock.json
+README.md
+.gitignore
+.assetsignore
+wrangler.jsonc
