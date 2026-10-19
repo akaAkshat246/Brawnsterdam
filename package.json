@@ -1,0 +1,21 @@
+{
+  "name": "brawnsterdam",
+  "version": "1.0.0",
+  "description": "Brawnsterdam - Interactive WebGL 3D Experience",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "webgl",
+    "nanogl",
+    "3d",
+    "brawnsterdam",
+    "interactive"
+  ],
+  "author": "Akshat Vats",
+  "license": "ISC",
+  "dependencies": {
+    "omggif": "^1.0.10"
+  }
+}
